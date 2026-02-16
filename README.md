@@ -6,7 +6,7 @@ A simple and elegant React.js application that demonstrates real-time text input
 
 ### Application Output
 
-![Project Screenshot](screenshot.png)
+![Project Screenshot](Screenshot.png)
 
 ## 📋 Table of Contents
 
